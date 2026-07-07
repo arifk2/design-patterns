@@ -6,7 +6,7 @@ package com.rf.rt.dp.abstract_factory;
  * Receipt), then the Abstract Factory Pattern is an excellent choice.
  */
 /*
-paymentAF
+PaymentAbstractFactory
 │
 ├── Payment.java
 ├── Refund.java
@@ -24,7 +24,7 @@ paymentAF
 ├── RazorPayFactory.java
 ├── AmazonPayFactory.java
 │
-└── Driver.java
+└── AbstractFactoryDPDriver.java
 
 */
 
